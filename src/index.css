@@ -29,7 +29,7 @@ code {
 .wrap {
     display: grid;
     grid-template-columns: 12% 62% 26%;
-    height: 915px;
+    height: 930px;
 }
 
 .wrap > * {
